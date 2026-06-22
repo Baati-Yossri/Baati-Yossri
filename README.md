@@ -37,7 +37,7 @@ diff
 ! Always learning. Always building.
   </td>
     <td width="40%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12&card_width=400" alt="Quick Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12&card_width=400&hide_rank=true" alt="Quick Stats" />
     </td>
   </tr>
 </table>
@@ -63,22 +63,27 @@ diff
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,git,github,docker,linux,vscode,postman&theme=dark&perline=8" height="45" />
 </p>
 
-<!-- ═══════════════════ GITHUB ANALYTICS DASHBOARD ═══════════════════ -->
+<!-- ═══════════════════ 2026 GITHUB ANALYTICS DASHBOARD ═══════════════════ -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=818cf8&center=true&vCenter=true&width=280&lines=Analytics;GitHub%20Stats;Performance&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=818cf8&center=true&vCenter=true&width=350&lines=2026%20Analytics;This%20Year%27s%20Journey;Current%20Progress&repeat=true" />
 </h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12" width="49%" alt="GitHub Stats" />
+  <!-- Streak Stats - shows current streak (naturally focuses on recent activity) -->
+  <img src="https://streak-stats.demolab.com?user=Baati-Yossri&theme=tokyonight&hide_border=true&background=0F0F23&stroke=60a5fa&ring=818cf8&fire=f472b6&currStreakNum=60a5fa&sideNums=818cf8&currStreakLabel=60a5fa&sideLabels=c7d2fe&dates=64748b" width="49%" alt="Current Streak" />
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baati-Yossri&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&text_color=c7d2fe&border_radius=12&langs_count=8" width="49%" alt="Top Languages" />
 </p>
+<!-- Activity Graph - shows recent activity over time -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Baati-Yossri&theme=tokyonight&hide_border=true&background=0F0F23&stroke=60a5fa&ring=818cf8&fire=f472b6&currStreakNum=60a5fa&sideNums=818cf8&currStreakLabel=60a5fa&sideLabels=c7d2fe&dates=64748b" width="70%" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baati-Yossri&theme=tokyo-night&hide_border=true&bg_color=0F0F23&color=60a5fa&line=818cf8&point=f472b6&area=true&area_color=60a5fa20" width="95%" alt="2026 Activity Graph" />
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baati-Yossri&theme=tokyo-night&hide_border=true&bg_color=0F0F23&color=60a5fa&line=818cf8&point=f472b6&area=true&area_color=60a5fa20" width="95%" alt="Activity Graph" />
-</p>
+<!-- Trophies -->
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Baati-Yossri&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&bg_color=0F0F23" alt="Trophies" />
+</p>
+<!-- 2026 Commits Counter (using custom endpoint that shows recent commits) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12&hide=prs,issues,contribs&custom_title=2026%20Commits%20%26%20Activity&hide_rank=true" width="60%" alt="2026 Focused Stats" />
 </p>
 
 <!-- ═══════════════════ 3D CONTRIBUTION SNAKE ═══════════════════ -->
@@ -92,7 +97,7 @@ diff
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=34d399&center=true&vCenter=true&width=280&lines=Connect;Let's%20Talk;Reach%20Out&repeat=true" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=34d399&center=true&vCenter=true&width=280&lines=Connect;Let%27s%20Talk;Reach%20Out&repeat=true" />
 </h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/yosri-baati/">
@@ -113,7 +118,7 @@ diff
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=60a5fa&animation=twinkling&fontAlignY=65" width="100%" alt="Footer" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=64748b&center=true&vCenter=true&width=400&lines=Built+with+precision.+Powered+by+curiosity.;ERP+isn't+just+software.+It's+business+transformation.&repeat=false" alt="Footer Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=64748b&center=true&vCenter=true&width=400&lines=Built+with+precision.+Powered+by+curiosity.;ERP+isn%27t+just+software.+It%27s+business+transformation.&repeat=false" alt="Footer Quote" />
 </p>
 <!--
   ═══════════════════════════════════════════════════════════════════
