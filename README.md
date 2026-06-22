@@ -77,21 +77,59 @@ diff
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baati-Yossri&theme=tokyo-night&hide_border=true&bg_color=0F0F23&color=60a5fa&line=818cf8&point=f472b6&area=true&area_color=60a5fa20" width="95%" alt="2026 Activity Graph" />
 </p>
-<!-- Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baati-Yossri&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7&bg_color=0F0F23" alt="Trophies" />
-</p>
 <!-- 2026 Commits Counter (using custom endpoint that shows recent commits) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12&hide=prs,issues,contribs&custom_title=2026%20Commits%20%26%20Activity&hide_rank=true" width="60%" alt="2026 Focused Stats" />
+</p>
 
+<!-- ═══════════════════ TROPHIES ═══════════════════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=f472b6&center=true&vCenter=true&width=280&lines=GitHub%20Trophies;Achievements;Milestones&repeat=true" />
+</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Baati-Yossri&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
+</p>
 
 <!-- ═══════════════════ 3D CONTRIBUTION SNAKE ═══════════════════ -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=f472b6&center=true&vCenter=true&width=280&lines=Contribution%20Graph;3D%20Snake;Commit%20History&repeat=true" />
 </h2>
 <p align="center">
-  <img src="https://github.com/Baati-Yossri/Baati-Yossri/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Dark" />
-  <img src="https://github.com/Baati-Yossri/Baati-Yossri/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Light" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
+<!-- Snake Setup Instructions (collapsible) -->
+<details align="center">
+  <summary>🐍 <b>Snake not showing?</b> Click here to set it up</summary>
+  <br>
+Create .github/workflows/snake.yml in your profile repo:
+yaml
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+Then enable GitHub Pages (Settings → Pages → Source: output branch).
+</details>
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 <h2 align="center">
