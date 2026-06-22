@@ -1,45 +1,58 @@
-[<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">Hey 👋 I'm Yossri Baati</h1>
+<h3 align="center">ERP Developer & Software Engineer</h3>
 
-###
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK_HERE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="Linkedin" /></a>
+  <a href="https://dev.to/YOUR_LINK_HERE"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" height="28" alt="Dev.to" /></a>
+  <a href="https://discord.com/users/YOUR_LINK_HERE"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" /></a>
+</p>
+
+---
+
+### 🚀 About Me
+
+I am a software developer specializing in building, customizing, and scaling **ERP Systems**. I love bridging the gap between complex business logic and clean, maintainable code. 
+
+- 🛠️ Currently focusing heavily on **Dolibarr ERP** development.
+- 🐍 Experienced with **Odoo ERP** ecosystems and customization.
+- ⚡ Always building and optimizing web workflows and backend architectures.
+
+---
+
+### 🧰 Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Dolibarr_ERP-2B5B84?style=flat-square&logo=dolibarr&logoColor=white" height="30" alt="Dolibarr" />
+  <img src="https://img.shields.io/badge/Odoo_ERP-714B67?style=flat-square&logo=odoo&logoColor=white" height="30" alt="Odoo" />
+  
+  <img src="https://skillicons.dev/icons?i=php,py,html,css,js" height="40" alt="Languages" />
+  
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,git,github" height="40" alt="Tools" />
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  
-  
- 
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  
+  <table border="0">
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baati-Yossri&theme=dracula" width="400" alt="Profile Details" />
+      </td>
+      <td align="center" valign="top">
+        <img src="https://streak-stats.demolab.com?user=Baati-Yossri&theme=dracula&hide_border=false&border_radius=5" width="400" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+### 🕹️ Contribution Fun
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Baati-Yossri&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Baati-Yossri&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-](https://github.com/Baati-Yossri/Baati-Yossri/edit/main/README.md)
