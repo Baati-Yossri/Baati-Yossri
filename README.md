@@ -131,7 +131,6 @@ diff
 
 
 
-<br>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=1000&color=334155&center=true&vCenter=true&width=500&lines=👋+Hey+there!+You+found+the+hidden+section.;🔧+Open+to+ERP+consulting+%26+custom+modules;🚀+Full-stack+projects+%7C+Business+automation;🤝+Let's+build+something+that+matters.&repeat=false" alt="Easter Egg" />
