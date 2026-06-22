@@ -77,10 +77,7 @@ diff
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baati-Yossri&theme=tokyo-night&hide_border=true&bg_color=0F0F23&color=60a5fa&line=818cf8&point=f472b6&area=true&area_color=60a5fa20" width="95%" alt="2026 Activity Graph" />
 </p>
-<!-- 2026 Commits Counter (using custom endpoint that shows recent commits) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12&hide=prs,issues,contribs&custom_title=2026%20Commits%20%26%20Activity&hide_rank=true" width="60%" alt="2026 Focused Stats" />
-</p>
+
 
 <!-- ═══════════════════ 3D CONTRIBUTION SNAKE ═══════════════════ -->
 <h2 align="center">
