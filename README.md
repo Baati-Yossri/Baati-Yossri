@@ -77,10 +77,7 @@ diff
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Baati-Yossri&theme=tokyo-night&hide_border=true&bg_color=0F0F23&color=60a5fa&line=818cf8&point=f472b6&area=true&area_color=60a5fa20" width="95%" alt="2026 Activity Graph" />
 </p>
-<!-- 2026 Commits Counter (using custom endpoint that shows recent commits) -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12&hide=prs,issues,contribs&custom_title=2026%20Commits%20%26%20Activity&hide_rank=true" width="60%" alt="2026 Focused Stats" />
-</p>
+
 
 <!-- ═══════════════════ TROPHIES ═══════════════════ -->
 <h2 align="center">
@@ -101,7 +98,7 @@ diff
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Baati-Yossri/Baati-Yossri/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
-<!-- Snake Setup Instructions (collapsible) -->
+<!-- <!-- Snake Setup Instructions (collapsible) -->
 <details align="center">
   <summary>🐍 <b>Snake not showing?</b> Click here to set it up</summary>
   <br>
@@ -129,7 +126,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 Then enable GitHub Pages (Settings → Pages → Source: output branch).
-</details>
+</details> -->
 
 <!-- ═══════════════════ CONNECT ═══════════════════ -->
 <h2 align="center">
@@ -140,7 +137,7 @@ Then enable GitHub Pages (Settings → Pages → Source: output branch).
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F0F23" height="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:baatiyossri@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F0F23" height="40" />
   </a>
   &nbsp;&nbsp;
