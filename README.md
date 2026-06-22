@@ -116,7 +116,7 @@ diff
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0F0F23&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=60a5fa&animation=twinkling&fontAlignY=65" width="100%" alt="Footer" />
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=64748b&center=true&vCenter=true&width=400&lines=Built+with+precision.+Powered+by+curiosity.;ERP+isn%27t+just+software.+It%27s+business+transformation.&repeat=false" alt="Footer Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=64748b&center=true&vCenter=true&width=400&lines=Built+with+precision.+Powered+by+curiosity.; ERP+isn%27t+just+software.+It%27s+business+transformation.&repeat=false" alt="Footer Quote" />
 </p>
 <!--
   ═══════════════════════════════════════════════════════════════════
