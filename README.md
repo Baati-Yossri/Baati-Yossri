@@ -1,3 +1,4 @@
+@@ -1,137 +1,140 @@
 <!--
   ╔══════════════════════════════════════════════════════════════════╗
   ║  YOSRI BAATI — ERP Architect & Software Engineer                 ║
@@ -20,16 +21,14 @@
   <img src="https://img.shields.io/badge/Location-Tunisia-f472b6?style=flat-square&logo=google-maps&logoColor=white&labelColor=0F0F23" />
 </p>
 
-&lt;!-- ═══════════════════ ABOUT ME CARD ═══════════════════ --&gt;
-&lt;h2 align="center"&gt;
-  &lt;img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=818cf8&center=true&vCenter=true&width=280&lines=About%20Me;The%20Story;Who%20Am%20I%3F&repeat=true" /&gt;
-&lt;/h2&gt;
-
-&lt;table align="center"&gt;
-  &lt;tr&gt;
-    &lt;td width="60%"&gt;
-
-```diff
+<!-- ═══════════════════ ABOUT ME CARD ═══════════════════ -->
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=818cf8&center=true&vCenter=true&width=280&lines=About%20Me;The%20Story;Who%20Am%20I%3F&repeat=true" />
+</h2>
+<table align="center">
+  <tr>
+    <td width="60%">
+diff
 + Currently specializing in ERP ecosystems
 + Dolibarr & Odoo module development
 + Backend architecture & API integration
@@ -37,6 +36,13 @@
 + Clean, maintainable code advocate
 
 ! Always learning. Always building.
+  </td>
+    <td width="40%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Baati-Yossri&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F0F23&title_color=60a5fa&icon_color=818cf8&text_color=c7d2fe&border_radius=12&card_width=400&hide_rank=true" alt="Quick Stats" />
+    </td>
+  </tr>
+</table>
+
 <!-- ═══════════════════ TECH STACK ═══════════════════ -->
 <h2 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=60a5fa&center=true&vCenter=true&width=280&lines=Tech%20Stack;My%20Arsenal;Tools%20I%20Use&repeat=true" />
@@ -128,6 +134,7 @@
 <br>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=1000&color=334155&center=true&vCenter=true&width=500&lines=👋+Hey+there!+You+found+the+hidden+section.;🔧+Open+to+ERP+consulting+%26+custom+modules;🚀+Full-stack+projects+%7C+Business+automation;🤝+Let's+build+something+that+matters.&repeat=false" alt="Easter Egg" />
   <sub>👋 Hey there! You found the hidden section.<br>
   🔧 Open to ERP consulting & custom modules<br>
   🚀 Full-stack projects | Business automation<br>
