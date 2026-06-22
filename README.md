@@ -32,9 +32,8 @@ I am a passionate Software Engineering student specializing in building robust w
 
 ### 📊 GitHub Stats
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baati-Yossri&theme=dracula" width="49%" alt="Profile Details" />
-  <img src="https://streak-stats.demolab.com?user=Baati-Yossri&theme=dracula&hide_border=false&border_radius=5" width="49%" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Baati-Yossri&theme=dracula" width="80%" alt="Profile Details" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=Baati-Yossri&theme=dracula&hide_border=false&border_radius=5" width="80%" alt="GitHub Streak" />
 </div>
