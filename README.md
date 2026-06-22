@@ -79,13 +79,7 @@ diff
 </p>
 
 
-<!-- ═══════════════════ TROPHIES ═══════════════════ -->
-<h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2000&pause=1000&color=f472b6&center=true&vCenter=true&width=280&lines=GitHub%20Trophies;Achievements;Milestones&repeat=true" />
-</h2>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Baati-Yossri&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="GitHub Trophies" />
-</p>
+
 
 <!-- ═══════════════════ 3D CONTRIBUTION SNAKE ═══════════════════ -->
 <h2 align="center">
