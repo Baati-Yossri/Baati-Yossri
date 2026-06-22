@@ -118,16 +118,20 @@ diff
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&duration=3000&pause=1000&color=64748b&center=true&vCenter=true&width=400&lines=Built+with+precision.+Powered+by+curiosity.;ERP+isn%27t+just+software.+It%27s+business+transformation.&repeat=false" alt="Footer Quote" />
 </p>
-<!--
-  ═══════════════════════════════════════════════════════════════════
-  👋 Hey there! You found the hidden section.
 
-  I'm always open to:
-  • ERP consulting & custom module development
-  • Full-stack web application projects
-  • Business process automation
-  • Collaboration on open-source tools
 
-  Let's build something that matters.
-  ═══════════════════════════════════════════════════════════════════
--->
+
+
+
+
+
+
+
+
+
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=3000&pause=1000&color=334155&center=true&vCenter=true&width=500&lines=👋+Hey+there!+You+found+the+hidden+section.;🔧+Open+to+ERP+consulting+%26+custom+modules;🚀+Full-stack+projects+%7C+Business+automation;🤝+Let's+build+something+that+matters.&repeat=false" alt="Easter Egg" />
+</p>
