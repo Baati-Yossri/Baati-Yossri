@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋 I'm Yosri Baati</h1>
-<h3 align="center">Software Engineering Student & ERP Developer</h3>
+<h3 align="center">ERP Developer & Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yosri-baati/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="Linkedin" /></a>
